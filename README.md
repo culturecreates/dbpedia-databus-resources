@@ -14,10 +14,10 @@ Follow [instructions on how to create your WebID](https://github.com/dbpedia/web
 You must have a WebID and it must be linked to your DBpedia Databus account.
 
 ### 4. Install Maven
-On MacOS use 'brew install maven'
+[Maven](http://maven.apache.org) is used to manage the data build. On MacOS use 'brew install maven'
 
-### 5. Configure your pom.xml using the templates in this tutorial
-Set your group, artefact and version metadata.  Configure the public download url for your data.
+### 5. Configure pom.xml using the templates in this tutorial
+Using the supplied example pom.xml, set your group, artefact and version metadata. Create your data folders and configure the public download url for your data.
 
 ### 6. Validate
 Run 'mvn validate' to check everything is configured properly.
