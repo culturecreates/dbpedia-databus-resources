@@ -25,5 +25,5 @@ Run 'mvn validate' to check everything is configured properly.
 ### 7. Deploy
 Run 'mvn deploy' to package your data for your server, and upload your data's metadata to the Databus.  Your data gets copied to your own server, and not to the Databus.  Your data  must remain accessible via the public download url set in your pom.xml.
 
-### 8. Contact Artsdata
-Send an email to mailto:admin@artsdata.ca with your Databus artifact URL and ask to be added to the Artsdata Databus Collection.  If your data passes Artsdata.ca SHACL and data quality considerations, your data will be added to Artsdata and all your future data version updates will be automatically uploaded as well.
+### 8. Contact Artsdata.ca
+To let the team at Artsdata.ca know your data is ready, you can add the keyword "artsdata.ca" to your artifact metadata (`:yourdataset1 dcat:keyword "artsdata.ca"`) or simply send an email to mailto:admin@artsdata.ca with your Databus artifact URL and ask to be added to the Artsdata Databus Collection.  If your data passes Artsdata.ca SHACL and data quality considerations, your data will be added to Artsdata and all your future data version updates will be automatically uploaded as well.
