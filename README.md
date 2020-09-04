@@ -1,6 +1,8 @@
 # Databus Resources
 Resources for uploading data to the DBpedia Databus and installing DBpedia dockerized Apps.
 
+![Databus Plaform](databus-platform.png)
+
 ## How to upload data to the Databus
 
 ### 1. Create your Databus account
