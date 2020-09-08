@@ -1,5 +1,5 @@
 # Databus Resources
-Resources for uploading data to the DBpedia Databus and installing DBpedia dockerized Apps.
+Resources for uploading data to the DBpedia Databus and installing DBpedia dockerized Apps. To encourge decetralized data sources to link to Artsdata.ca, Artsdata.ca will accept RDF data published to the Databus that has equivalent classes to schema:Person, schema:Event, schema:Place and schema:Organization. 
 
 ![Databus Plaform](databus-platform.png)
 
